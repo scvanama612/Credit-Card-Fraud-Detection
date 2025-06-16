@@ -43,10 +43,6 @@ Edit
 
 I wanted to challenge myself with a realistic dataset and practice everything I know in one place: data cleaning, modeling, evaluation, and saving a model. This was a solo project where I did everything from scratch without using any templates.
 
-## 🔗 Contact
 
- [LinkedIn](https://www.linkedin.com/in/saichandravanama).
-=======
 # Credit-Card-Fraud-Detection
 A self-built project to detect fraudulent credit card transactions using autoencoders.
->>>>>>> 78730f9e2d26d6acce3e85e8e8b83b2ca44445ef
