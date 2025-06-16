@@ -1,3 +1,4 @@
+
  Credit Card Fraud Detection 🕵️‍♂️💳
 
 This is a personal project I worked on to detect fraudulent transactions using real-world credit card data. The dataset was very imbalanced (most transactions are not fraud), so my focus was on model accuracy and recall for the minority (fraud) class.
@@ -45,3 +46,7 @@ I wanted to challenge myself with a realistic dataset and practice everything I 
 ## 🔗 Contact
 
  [LinkedIn](https://www.linkedin.com/in/saichandravanama).
+=======
+# Credit-Card-Fraud-Detection
+A self-built project to detect fraudulent credit card transactions using autoencoders.
+>>>>>>> 78730f9e2d26d6acce3e85e8e8b83b2ca44445ef
