@@ -1,0 +1,18 @@
+# Byte-compiled / temporary files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.log
+
+# Virtual environments
+env/
+venv/
+
+# Data and model files
+*.h5
+*.csv
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db

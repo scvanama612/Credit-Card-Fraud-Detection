@@ -1,0 +1,15 @@
+
+---
+
+###  `requirements.txt`
+
+This file lists all the Python packages your project uses.
+
+
+```txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
